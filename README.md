@@ -68,7 +68,6 @@ Para realizar la configuración, realizamos los siguientes pasos:
 
 Este paso resultó crucial, ya que sin la conexión a la VPN, el acceso al Servicio IaaS no era posible, si no nos encontramos en la red universitaria.
 
-
 ### Acceso al Servicio IaaS y asiganación de la máquina virtual
 Una vez conectados a la VPN, accedimos al **Servicio IaaS de la ULL**, y seguimos estos pasos:
 
@@ -87,7 +86,7 @@ Con la máquina virtual en estado **"En ejecución"**, procedimos a conectarnos 
    - **Usuario:** `usuario`
    - **Contraseña:** `usuario`
 
-2. Inmediatamente, el sistema solicitó el cambio de contraseña por motivos de seguridad. Introdujimos una nueva contraseña y la almacenamos en un lugar seguro.
+2. Inmediatamente, el sistema solicitó el cambio de contraseña por motivos de seguridad. Introdujimos una nueva contraseña.
 
 3. Para verificar la configuración de red de la máquina virtual, ejecutamos los siguientes comandos en la terminal:
 
