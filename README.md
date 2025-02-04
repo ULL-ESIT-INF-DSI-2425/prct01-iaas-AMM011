@@ -44,9 +44,6 @@ En concreto, esta práctica permitirá:
 - Configurar herramientas esenciales para el desarrollo de software.
 - Garantizar la compatibilidad del entorno de desarrollo con futuras prácticas y proyectos.
 
-En esta práctica, abordaremos la instalación y configuración de una máquina virtual con el software necesario para desarrollar proyectos de software de manera eficiente. 
-
-
 # 2. Requisitos previos
 
 Antes de iniciar con la configuración de la máquina virtual, llevamos a cabo una serie de tareas previas indicadas en el enunciado de la práctica. Estas acciones fueron fundamentales para garantizar un desarrollo fluido y estructurando de la activiidad.
