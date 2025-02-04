@@ -2,33 +2,12 @@ title: "Práctica 1 - Configuración de Máquina Virtual en el IaaS de la ULL"
 description: "Informe sobre la configuración de una máquina virtual en el Servicio IaaS de la ULL, incluyendo la instalación de herramientas esenciales y la integración con GitHub."
 author: "Alfredo Moreno Mondragón"
 email: "alu0101515601@ull.edu.es"
-github_username: "AMM011"
-repository: "ULL-ESIT-INF-DSI-2425/prct01-iaas-alu0101515601"
-
-# Configuración de GitHub Pages
-baseurl: "/prct01-iaas-alu0101515601"
-url: "https://AMM011-github.github.io"
 
 # Configuración de Markdown
-markdown: kramdown
 highlighter: rouge
 
-# Opciones de construcción
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# Navegación personalizada 
-header_pages:
-  - index.md
-  - introduccion.md
-  - requisitos.md
-  - configuracion.md
-  - conclusiones.md
-  - referencias.md
-
 # Formato de fecha
-date_format: "%d-%m-%Y"
+# date_format: "%d-%m-%Y"
 
 remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
