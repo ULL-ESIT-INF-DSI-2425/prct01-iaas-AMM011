@@ -426,19 +426,17 @@ Con esta configuración, la máquina virtual quedó lista para el desarrollo con
 
 # 7. Conclusiones
 
-Al finalizar esta práctica, logramos configurar con éxito una máquina virtual en el servicio **IaaS de la ULL**, estableciendo un entorno de desarrollo funcional. La práctica nos permitió familiarizarnos con la infraestructura del servicio, la gestión de máquinas virtuales y la configuración de herramientas esenciales como **Git** y **Node.js**.
+Al finalizar esta práctica, logramos configurar con éxito una máquina virtual en el servicio **IaaS de la ULL**, estableciendo un entorno de desarrollo funcional.
 
 ### Evaluación de la práctica
 
-La práctica resultó fundamental para comprender la importancia de trabajar con **infraestructura virtualizada** en un entorno académico. A lo largo de la realización, enfrentamos y superamos diversos retos, tales como:
+A lo largo de la realización, enfrentamos y superamos diversos retos, tales como:
 
 - La **configuración de la VPN de la ULL**, necesaria para acceder al servicio IaaS desde fuera de la red universitaria.
 - La **gestión de la máquina virtual**, incluyendo la asignación de recursos y la configuración del sistema operativo.
 - La **configuración del acceso SSH**, permitiendo la autenticación mediante clave pública-privada sin necesidad de introducir credenciales en cada conexión.
 - La **instalación y personalización de Git**, lo que facilitó el control de versiones y la integración con **GitHub** mediante SSH.
 - La **instalación y configuración de Node.js** utilizando **NVM**, lo que permitió gestionar diferentes versiones del entorno de desarrollo.
-
-Cada uno de estos pasos reforzó el uso de herramientas clave en el desarrollo de software y nos permitió optimizar el flujo de trabajo en un entorno virtualizado.
 
 # 8. Bibliografía y referencias
 
