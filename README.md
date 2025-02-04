@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/h8fF_2CY)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=17952273)
 # Informe de Práctica 1: Configuración de máquina virtual en el IaaS
 ### Autor: **Alfredo Moreno Mondragón**  
 ### Profesor: **Dr.Eduardo Manuel Segredo González**  
@@ -9,7 +7,6 @@
 ### Índice: 
 1. [Introducción](#1-introducción)
    - [Objetivo de la práctica](#objetivo-de-la-práctica)
-   - [Beneficios de la configuración de entornos de desarrollo](#beneficios-de-la-configuración-de-entornos-de-desarrollo)
 2. [Requisitos previos](#2-requisitos-previos)
    - [Tareas previas](#tareas-previas)
 3. [Acceso y configuración de la máquina virtual en el Servicio IaaS de la ULL](#3-acceso-y-configuración-de-la-máquina-virtual-en-el-servicio-iaas-de-la-ull)
@@ -46,15 +43,6 @@ En concreto, esta práctica permitirá:
 - Aprender a instalar un sistema operativo en una máquina virtual.
 - Configurar herramientas esenciales para el desarrollo de software.
 - Garantizar la compatibilidad del entorno de desarrollo con futuras prácticas y proyectos.
-
-### Beneficios de la configuración de entornos de desarrollo
-
-Algunos de los beneficios de un entorno de desarrollo correctamente configurado incluyen:
-
-- **Aislamiento del entorno:** Permite separar el entorno de desarrollo del sistema operativo principal, evitando conflictos con otras aplicaciones.
-- **Portabilidad:** Facilita la replicación del entorno en diferentes máquinas, asegurando que todos los miembros del equipo de desarrollo trabajen con la misma configuración.
-- **Seguridad:** Reduce el riesgo de afectar el sistema operativo principal en caso de fallos o errores durante el desarrollo.
-- **Eficiencia y automatización:** Permite la integración de herramientas que mejoran el flujo de trabajo, como gestores de versiones, entornos virtualizados y contenedores.
 
 En esta práctica, abordaremos la instalación y configuración de una máquina virtual con el software necesario para desarrollar proyectos de software de manera eficiente. 
 
