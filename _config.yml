@@ -3,12 +3,12 @@ description: "Informe sobre la configuración de una máquina virtual en el Serv
 author: "Alfredo Moreno Mondragón"
 email: "alu0101515601@ull.edu.es"
 
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme 
+
 # Configuración de Markdown
 highlighter: rouge
 
 # Formato de fecha
 # date_format: "%d-%m-%Y"
-
-remote_theme: pages-themes/time-machine@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
