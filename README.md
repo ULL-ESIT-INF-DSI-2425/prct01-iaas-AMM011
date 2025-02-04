@@ -63,7 +63,7 @@ Antes de iniciar con la configuración de la máquina virtual, llevamos a cabo u
 Antes de proceder con la configuración del entorno de desarrollo, llevamos a cabo la configuración de acceso al **Servicio IaaS de la ULL**, siguiendo los pasos detallados a continuación.
 
 ### Configuración de la VPN de la ULL
-Para acceder a las máquinas virtuales del **Servicio IaaS de la ULL** desde fuera de la red universitaria, configuramos el servicio **VPN de la ULL** en nuestro equipo.
+Para realizar la configuración, realizamos los siguientes pasos:
 
 1. Accedimos a la documentación oficial de la ULL sobre la configuración de la VPN.
 
@@ -73,11 +73,11 @@ Para acceder a las máquinas virtuales del **Servicio IaaS de la ULL** desde fue
 
 4. Establecimos la conexión con la VPN, verificando que el acceso a la red universitaria estaba correctamente habilitado.
 
-Este paso resultó crucial, ya que sin la conexión a la VPN, el acceso al Servicio IaaS no era posible, si no nos encontramos en al universidad.
+Este paso resultó crucial, ya que sin la conexión a la VPN, el acceso al Servicio IaaS no era posible, si no nos encontramos en la red universitaria.
 
 
 ### Acceso al Servicio IaaS y asiganación de la máquina virtual
-Una vez conectados a la VPN, accedimos al **Servicio IaaS de la ULL** mediante el portal web oficial e iniciamos sesión con nuestras credenciales de la universidad.
+Una vez conectados a la VPN, accedimos al **Servicio IaaS de la ULL**, y seguimos estos pasos:
 
 1. Accedimos al panel de control, donde se nos mostró una lista de las máquinas virtuales asociadas a nuestra cuenta.
 
