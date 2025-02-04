@@ -1,10 +1,14 @@
-title: "Práctica 1 - Configuración de Máquina Virtual en el IaaS de la ULL"
-description: "Informe sobre la configuración de una máquina virtual en el Servicio IaaS de la ULL, incluyendo la instalación de herramientas esenciales y la integración con GitHub."
-author: "Alfredo Moreno Mondragón"
-email: "alu0101515601@ull.edu.es"
+# Configuración básica del sitio
+title: "Informe Práctica 01 DSI"
+description: "Configuración de Máquina Virtual en el IaaS"
+author: "Francisco Fdez"
+email: "alu0101427324@ull.edu.es"
+url: "https://ffdezgomez-p01-dsi.github.io"  # URL de tu sitio en GitHub Pages
 
-remote_theme: pages-themes/time-machine@v0.2.0
+# Selección del tema (elige uno de la lista oficial de GitHub Pages)
+remote_theme: pages-themes/slate@v0.2.0
 plugins:
-- jekyll-remote-theme 
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
-highlighter: rouge
+# Configuración para Markdown
+highlighter: rouge  # Resaltador de sintaxis para código
