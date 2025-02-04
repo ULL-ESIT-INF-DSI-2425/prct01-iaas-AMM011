@@ -35,7 +35,7 @@
 
 # 1. Introducción
 
-En esta práctica configuramos una máquina virtual en el **Servicio IaaS de la ULL** como entorno de desarrollo, estableciendo la conexión mediante **VPN**, accediendo al servicio, asignando una máquina virtual y configurándola para su uso. Además, instalamos y configuramos herramientas esenciales como **Git**, **Node.js** y **SSH**, asegurando su integración con **GitHub**, e implementamos la autenticación mediante clave pública-privada para facilitar el acceso seguro a la máquina.
+En esta práctica configuramos una máquina virtual en el **Servicio IaaS de la ULL** como entorno de desarrollo, estableciendo la conexión mediante **VPN**, accediendo al servicio, asignando una máquina virtual y configurándola para su uso. Además, instalamos y configuramos herramientas como **Git**, **Node.js** y **SSH**, asegurando su integración con **GitHub**.
 
 # 2. Requisitos previos
 
