@@ -6,7 +6,6 @@
 ### Fecha: **02/02/2025**
 ### Índice: 
 1. [Introducción](#1-introducción)
-   - [Objetivo de la práctica](#objetivo-de-la-práctica)
 2. [Requisitos previos](#2-requisitos-previos)
    - [Tareas previas](#tareas-previas)
 3. [Acceso y configuración de la máquina virtual en el Servicio IaaS de la ULL](#3-acceso-y-configuración-de-la-máquina-virtual-en-el-servicio-iaas-de-la-ull)
@@ -35,14 +34,8 @@
 8. [Bibliografía y referencias](#8-bibliografía-y-referencias)  
 
 # 1. Introducción
-### Objetivo de la práctica
-El objetivo principal de esta práctica es configurar una máquina virtual que sirva como entorno de desarrollo para el desarrollo de sistemas informáticos. 
 
-En concreto, esta práctica permitirá:
-- Familiarizarse con el uso de máquinas virtuales y su configuración básica.
-- Aprender a instalar un sistema operativo en una máquina virtual.
-- Configurar herramientas esenciales para el desarrollo de software.
-- Garantizar la compatibilidad del entorno de desarrollo con futuras prácticas y proyectos.
+En esta práctica configuramos una máquina virtual en el **Servicio IaaS de la ULL** como entorno de desarrollo, estableciendo la conexión mediante **VPN**, accediendo al servicio, asignando una máquina virtual y configurándola para su uso. Además, instalamos y configuramos herramientas esenciales como **Git**, **Node.js** y **SSH**, asegurando su integración con **GitHub**, e implementamos la autenticación mediante clave pública-privada para facilitar el acceso seguro a la máquina.
 
 # 2. Requisitos previos
 
