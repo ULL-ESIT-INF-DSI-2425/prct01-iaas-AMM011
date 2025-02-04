@@ -51,26 +51,12 @@ Antes de iniciar con la configuración de la máquina virtual, llevamos a cabo u
 ### Tareas previas
 
 1. **Cumplimentación de encuestas iniciales**  
-   - Realizamos la encuesta de **elección de grupo de trabajo**.
-   - Contestamos la encuesta sobre **expectativas y conocimientos previos**, proporcionando información sobre nuestra experiencia en el uso de máquinas virtuales y herramientas relacionadas.
 
 2. **Configuración y uso de GitHub**  
-   - Verificamos que disponíamos de una **cuenta de GitHub asociada a nuestro correo institucional** (aluXXXXXXXXXX@ull.edu.es).  
-   - En caso de no contar con esta cuenta, procedimos a su creación.  
-   - Solicitamos los beneficios de **GitHub Education**, lo que nos permitió acceder a herramientas adicionales para estudiantes.  
-   - Nos dimos de alta en **GitHub Classroom** utilizando nuestra cuenta institucional de GitHub.  
-   - Aceptamos la **asignación de GitHub Classroom** correspondiente a esta práctica, asegurándonos de tener acceso al repositorio necesario.  
 
 3. **Preparación para la documentación en Markdown y GitHub Pages**  
-   - Revisamos la **breve introducción a Markdown** proporcionada en el enunciado de la práctica, ya que se nos solicitó utilizar este lenguaje para redactar el informe.  
-   - Consultamos el recurso sobre **GitHub Pages** y habilitamos la funcionalidad en el repositorio de la práctica, permitiendo que el informe se desplegara como una **GitHub Page**.  
-   - Nos familiarizamos con **Jekyll**, la herramienta utilizada por GitHub Pages para transformar archivos Markdown en sitios web. Para ello, visitamos el sitio web oficial de [Jekyll](https://jekyllrb.com/).  
 
 4. **Cursos recomendados de GitHub Skills**  
-   Para mejorar nuestro manejo de GitHub y Markdown, completamos los siguientes cursos de **GitHub Skills**:
-   - [Introduction to GitHub](https://skills.github.com/)
-   - [Communicate using Markdown](https://skills.github.com/)
-   - [GitHub Pages](https://skills.github.com/) *(incluye tópicos avanzados, aunque solo aplicamos lo necesario para desplegar nuestra GitHub Page).*
 
 # 3. Acceso y configuración de la máquina virtual en el Servicio IaaS de la ULL
 
